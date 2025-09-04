@@ -17,7 +17,18 @@ I’m a developer passionate about building, testing, and exploring software sol
 - **Other**: Git/GitHub, Agile workflows  
 
 ---
+<!--
+```javascript
+const alex = {
+  pronouns: "he/him",
+  code: ["Java", "JavaScript", "React", "Cypress", "SQL", "HTML", "CSS"],
+  tools: ["Postman", "React", "Node", "Jest", "Git/GitHub"],
+  architecture: ["API design", "testing patterns", "React component patterns"],
+  challenge: "I am doing personal projects focused on React, Java, API, and testing "
+}
 
+```
+-->
 ## 📂 Featured Projects  
 
 <div align="center">
@@ -31,7 +42,9 @@ I’m a developer passionate about building, testing, and exploring software sol
 ---
 
 ## 📊 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Alepes-8&show_icons=true&theme=default) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alepes-8&layout=compact&theme=default&hide=jupyter%20notebook,C)
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alepes-8&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alepes-8&layout=compact&theme=radical&hide=jupyter%20notebook,C)
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alepes-8&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 ---
 ## 🌱 Currently Learning  
