@@ -11,7 +11,7 @@ I’m a developer passionate about building, testing, and exploring software sol
 ---
 
 ## 🔧 Skills & Tools  
-- **Languages & Frameworks**: Java, JavaScript, React  
+- **Languages & Frameworks**: Java, JavaScript, React, Typescript, C++, Golang
 - **Databases**: SQL  
 - **Testing & APIs**: Postman, REST APIs, Cypress, Software Testing  
 - **Other**: Git/GitHub, Agile workflows  
