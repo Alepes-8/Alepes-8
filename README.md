@@ -28,14 +28,15 @@ const alex = {
 }
 
 ```
+
 -->
 ## 📂 Featured Projects  
 
 <div align="center">
 
-| 🛠️🔌📡 API Building | 💰📊📈 Financial Tracker | 🎮🕹️⚙️ Game Engine |
-| -------------------- | ------------------------ | ------------------- |
-| <a href="https://github.com/Alepes-8/API"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Alepes-8&repo=API&theme=default" width="230"/></a> <img src="https://github.com/user-attachments/assets/bfd6b2ad-ba45-41ad-b5a8-da8e44254fbf" width="250"/> | <a href="https://github.com/Alepes-8/FinancialTracker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Alepes-8&repo=FinancialTracker&theme=default" width="230"/></a> <img src="https://github.com/user-attachments/assets/5f61eedc-0eec-42b8-8376-1cb96af97c48" width="250"/> | <a href="https://github.com/Alepes-8/Chaos"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Alepes-8&repo=Chaos&theme=default" width="230"/></a> <img src="https://github.com/user-attachments/assets/b6fe55e7-605f-4607-90ac-a5198c0375fd" width="250"/> |
+| 🛠️🔌📡 Deployed API  | 💰📊📈 Financial Tracker | 🎮🕹️⚙️ Game Engine |
+| --------------------- | ------------------------- | -------------------  |
+| <a href="https://github.com/Alepes-8/Drink-Catalog"><img width="250" alt="522660639-fac38275-4a70-4544-9074-2fa3eee95db7" src="https://github.com/user-attachments/assets/bf8956ec-5b90-4806-b41f-b3d06f4b6473" a/>  | <a href="https://github.com/Alepes-8/FinancialTracker"> <img src="https://github.com/user-attachments/assets/5f61eedc-0eec-42b8-8376-1cb96af97c48" width="250"/> | <a href="https://github.com/Alepes-8/Chaos"></a> <img src="https://github.com/user-attachments/assets/b6fe55e7-605f-4607-90ac-a5198c0375fd" width="250"/> |
 
 </div>
 
@@ -48,9 +49,9 @@ const alex = {
 
 ---
 ## 🌱 Currently Learning  
-- Advanced React patterns  
 - Better testing practices  
-- Exploring API design  
+- Exploring API design
+- Utilising cloud software and systems
 
 ---
 
