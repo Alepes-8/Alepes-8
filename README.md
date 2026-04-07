@@ -45,14 +45,13 @@ const alex = {
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Alepes-8&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=Alepes-8&theme=radical&hide_border=true" />
+  <!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Alepes-8&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" /> -->
+  <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app?user=Alepes-8&theme=radical&hide_border=true" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alepes-8&layout=compact&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-</p>
-
+</p>-->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alepes-8&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 ---
